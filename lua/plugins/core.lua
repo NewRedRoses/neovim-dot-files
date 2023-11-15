@@ -9,6 +9,7 @@ return {
         flavour = "mocha",
         transparent_background = true,
       }),
+      background_colour = "#000000",
     },
   },
 }
