@@ -20,6 +20,7 @@ return {
           "java $fileNameWithoutExt",
         },
         python = "python3 -u",
+        markdown = "glow",
         typescript = "deno run",
         javascript = "deno run",
         rust = {
