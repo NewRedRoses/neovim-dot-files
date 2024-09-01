@@ -14,7 +14,7 @@ return {
       -- configurations
       flavour = "mocha",
       term_colors = true,
-      transparent_background = true,
+      transparent_background = false,
     },
   },
 }
